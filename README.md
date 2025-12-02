@@ -1,1 +1,21 @@
-<h1 align="center">👋 Hola, soy Astra.</h1> <br> <div align="center"> <div style="border: 2px solid #444; border-radius: 20px; padding: 20px 40px; display: inline-block; background-color: #121212; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); transition: all 0.3s ease-in-out;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" title="VSCode"/> </div> </div> <br><br> <p align="right"> Desarrollado por <a href="https://doxbin.net"><strong style="color:#007BFF">@76vx</strong></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=N4xv&label=👁️+Vistas+al+perfil&color=00ff00&style=flat-square" alt="Profile views" /> </p>
+
+<div align=center>
+  <img src="https://count.getloli.com/get/@:76vx?theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
+  <br>
+
+  <a href="https://www.instagram.com/kobebryant/">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=76vx&theme=darkmode&data=followers,repositories,stars,commits" width=500>
+  </a>
+
+  <code><img src="https://skillicons.dev/icons?i=html" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=css" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=js" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=bash" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=java" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=py" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=linux" width=40></code>
+  <code><img src="https://skillicons.dev/icons?i=ubuntu" width=40></code>
+</div>
+
+<br><br>
+
