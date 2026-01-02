@@ -1,6 +1,6 @@
 
 <div align=center>
-  <img src="https://count.getloli.com/get/@:76vx?theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" width=400>
+  <img src="https://count.getloli.com/@76vx?name=76vx&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=4567" width=400>
   <br>
 
   <a href="https://www.instagram.com/kobebryant/">
